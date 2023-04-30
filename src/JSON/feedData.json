@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "To sell this dog",
+      "description": "Dynamic Color Themes allows for generating two color schemes lightScheme and darkScheme, based on the provided source color.",
+      "image": "https://images.unsplash.com/photo-1572566830488-069bcc7fbcec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "title": "To sell this cat",
+      "description": "Dynamic Color Themes allows for generating two color schemes lightScheme and darkScheme, based on the provided source color.",
+      "image": "https://images.unsplash.com/photo-1583795128727-6ec3642408f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2F0c3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "title": "To sell this dog",
+      "description": "Dynamic Color Themes allows for generating two color schemes lightScheme and darkScheme, based on the provided source color.",
+      "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8RE9HfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "title": "To sell this cat",
+      "description": "Dynamic Color Themes allows for generating two color schemes lightScheme and darkScheme, based on the provided source color.",
+      "image": "https://media.istockphoto.com/id/1324776163/photo/cute-young-cat-playing-in-a-garden.jpg?b=1&s=170667a&w=0&k=20&c=7Td4XwlJY5twBfsAJFVJYDcBnuYqbRRJU2Urde5m4Bo="
+    },
+    {
+      "id": 6,
+      "title": "To sell this cat",
+      "description": "Dynamic Color Themes allows for generating two color schemes lightScheme and darkScheme, based on the provided source color.",
+      "image": "https://media.istockphoto.com/id/1324776163/photo/cute-young-cat-playing-in-a-garden.jpg?b=1&s=170667a&w=0&k=20&c=7Td4XwlJY5twBfsAJFVJYDcBnuYqbRRJU2Urde5m4Bo="
+    },
+    {
+      "id": 7,
+      "title": "To sell this cat",
+      "description": "Dynamic Color Themes allows for generating two color schemes lightScheme and darkScheme, based on the provided source color.",
+      "image": "https://media.istockphoto.com/id/1324776163/photo/cute-young-cat-playing-in-a-garden.jpg?b=1&s=170667a&w=0&k=20&c=7Td4XwlJY5twBfsAJFVJYDcBnuYqbRRJU2Urde5m4Bo="
+    },
+    {
+      "id": 8,
+      "title": "To sell this cat",
+      "description": "Dynamic Color Themes allows for generating two color schemes lightScheme and darkScheme, based on the provided source color.",
+      "image": "https://media.istockphoto.com/id/1324776163/photo/cute-young-cat-playing-in-a-garden.jpg?b=1&s=170667a&w=0&k=20&c=7Td4XwlJY5twBfsAJFVJYDcBnuYqbRRJU2Urde5m4Bo="
+    }
+  ]
+}
